@@ -1,0 +1,10 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.md
+*.log
+node_modules/
+npm-debug.log
+__pycache__/
+*.swp
